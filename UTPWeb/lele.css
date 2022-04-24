@@ -1,0 +1,67 @@
+table, th, td, tr, thead{
+    border:1px solid #D82148;
+    color: rgb(255, 255, 255);
+    font-style: normal;
+    background-color: #212529;
+    padding: 15px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #151D3B;
+    color: #D82148;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.navbar-light{
+    background-color: #D82148;
+}
+.offcanvas{
+    background-color: #151D3B;
+}
+.navbar-brand{
+    font-weight: bold;
+}
+h1{
+    font-weight: normal;
+    font-size:50px;
+}
+.nama{
+    font-weight: bold;
+    font-size:50px;
+}
+.btn-dark{
+    background-color: #D82148;
+    color: #212529;
+    font-weight: bold;
+}
+
+.table-dark{
+    color: #D82148;
+}
+.jumbotron{
+    padding-top :5rem;
+}
+.rounded-circle{
+    background-color: #D82148;
+    border: solid; 
+}
+.svg_queen{
+    opacity: 0.8;
+    width: 50%;
+    height: 50%;
+}
+.bawah{
+    padding-top: 5rem;
+}
+.tag{
+    font-size: 40px;
+    font-weight: bold;
+}
+.col-md-4{
+    padding-bottom: 20px;
+}
+.card-text{
+    font-weight: bold;
+}
