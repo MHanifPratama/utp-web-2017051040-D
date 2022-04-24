@@ -20,6 +20,12 @@ body{
 .offcanvas{
     background-color: #151D3B;
 }
+.nav-link{
+    color: #D82148!important;
+}
+.active{
+    color: white!important;
+}
 .navbar-brand{
     font-weight: bold;
 }
